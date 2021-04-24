@@ -1,0 +1,2 @@
+uts/hanif/mobile/BuildConfig.java
+ uts.hanif.mobile.BuildConfig
